@@ -1,0 +1,2 @@
+# shiny
+Multicollinearity Diagnostic Tool 
